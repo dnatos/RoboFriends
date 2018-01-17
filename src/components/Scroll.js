@@ -10,7 +10,3 @@ const Scroll = (props) =>{
 }
 
 export default Scroll;
-
-//props
-//state
-//children

@@ -15,8 +15,8 @@ class Card extends Component {
                     <p>{this.props.email}</p>
                 </div>
             </div>
-        )
-    }
+        );
+    
 }
 
 export default Card;
